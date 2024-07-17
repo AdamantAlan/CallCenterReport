@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CallCenterReport": {
+      "commandName": "Project",
+      "commandLineArgs": "test_data_onemonth"
+    }
+  }
+}
